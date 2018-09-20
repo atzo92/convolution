@@ -1,0 +1,10 @@
+Package: convolution
+Type: Package
+Title: convolution
+Version: 0.1.0
+Author: Andrea Atzori
+Maintainer: Andrea Atzori <andreaatzo@yahoo.it>
+Description: convolution
+License: GPL
+Encoding: UTF-8
+LazyData: true
